@@ -33,3 +33,7 @@ Buatlah Website seperti di [Mockup](https://www.figma.com/file/YPQ5iCEvLc2CTGVSa
 
  Jika ada pertanyaan, silakan open issue pada repo ini ya!
  <b>Happy Coding! 🔥</b>
+
+
+ <b>Dimas Oktavian Ramadhan</b>
+ <b>dimas.ooktavian.17@gmail.com</b>

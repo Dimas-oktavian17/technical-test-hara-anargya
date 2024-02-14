@@ -1,7 +1,12 @@
-<script setup></script>
+<script setup>
+import { RouterView } from 'vue-router';
+import { provide, ref } from 'vue'
+const sidebarBurger = ref(false)
+provide('sidebarBurger', sidebarBurger)
+</script>
 
 <template>
-  <div class="text-lg font-bold">Hallo Folks!</div>
+  <RouterView />
 </template>
 
 <style scoped></style>

@@ -6,6 +6,7 @@ let province = [
   },
   {
     id: 2,
+    
     name: "SUMATERA UTARA",
     wilayah_id: 25,
   },
